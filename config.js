@@ -19,8 +19,8 @@ const CONFIG = {
 	// Greetings
 	greetingMorning: 'Buenos días!',
 	greetingAfternoon: 'Es hora de almorzar,',
-	greetingEvening: 'Buenas noche,',
-	greetingNight: 'Go to Sleep!',
+	greetingEvening: 'Buenas noches,',
+	greetingNight: 'Ve a dormir!',
 
 	// Layout
 	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
