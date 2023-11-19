@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'bot',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Data Sience',
+					link: 'https://www.reddit.com/r/datascience/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Statistics',
+					link: 'https://www.reddit.com/r/statistics/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Unixporn',
+					link: 'https://www.reddit.com/r/unixporn/',
 				},
 			],
 		},
@@ -195,12 +195,12 @@ const CONFIG = {
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'Facebook',
+					link: 'https://www.facebook.com',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Instagram',
+					link: 'https://www.instagram.com',
 				},
 			],
 		},
@@ -209,11 +209,11 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Gmail',
+					name: 'GmailP',
 					link: 'https://mail.google.com/mail/u/1/#inbox',
 				},
 				{
-					name: 'Gmail',
+					name: 'GmailG',
 					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
