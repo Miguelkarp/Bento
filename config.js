@@ -191,8 +191,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Physics',
+					link: 'https://www.physicsforums.com/',
 				},
 				{
 					name: 'Facebook',
