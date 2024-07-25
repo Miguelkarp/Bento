@@ -195,12 +195,12 @@ const CONFIG = {
 					link: 'https://www.physicsforums.com/',
 				},
 				{
-					name: 'Facebook',
-					link: 'https://www.facebook.com',
+					name: 'Maths',
+					link: 'https://mathforums.com/',
 				},
 				{
-					name: 'Instagram',
-					link: 'https://www.instagram.com',
+					name: 'Stack',
+					link: 'https://physics.stackexchange.com/',
 				},
 			],
 		},
