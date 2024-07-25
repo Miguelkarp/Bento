@@ -199,8 +199,8 @@ const CONFIG = {
 					link: 'https://mathforums.com/',
 				},
 				{
-					name: 'Stack',
-					link: 'https://physics.stackexchange.com/',
+					name: 'Elicit',
+					link: 'https://elicit.com/',
 				},
 			],
 		},
