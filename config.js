@@ -187,8 +187,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Youtube',
-					link: 'https://www.youtube.com',
+					name: 'Temario',
+					link: 'https://miguelkarp.github.io/random-selector/',
 				},
 				{
 					name: 'Physics',
